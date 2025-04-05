@@ -1,0 +1,2 @@
+(()=>{"use strict";flarum.core.compat["admin/app"].initializers.add("yazz-discussionpost",(function(){console.log("[yazz/discussionpost] Hello, admin!")}))})(),module.exports={};
+//# sourceMappingURL=admin.js.map
