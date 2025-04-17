@@ -1,0 +1,34 @@
+.PostImageContainer {
+  container-type: inline-size;
+  /* 或 container: inline-size; 也可以 */
+}
+
+.PostImageWraper {
+  display: grid;
+  gap: 8px;
+  padding-top: 12px;
+  width: 100%;
+  flex-wrap: wrap;
+  grid-template-columns: repeat(5, minmax(0, 1fr));
+  grid-template-rows: 1fr;
+
+  img:nth-of-type(n + 6) {
+    display: none;
+  }
+
+  .PostImage {
+    width: 100%;
+    aspect-ratio: 1 / 1;
+    object-fit: cover;
+  }
+
+  @container (max-width: 767px) {
+    gap: 4px;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+
+    img:nth-of-type(n + 4) {
+      display: none;
+    }
+  }
+  
+}
