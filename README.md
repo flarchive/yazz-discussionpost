@@ -2,13 +2,24 @@
 
 > **Read-only archive of released versions of yazz/discussionpost.** Not for installation: use [Packagist](https://packagist.org/packages/yazz/discussionpost) or the [upstream repository](https://github.com/hackyazz/discussionpost).
 
-**0** versions archived · Latest: [`v1.0.27`](https://github.com/flarchive/yazz-discussionpost/tree/archive/v1.0.27) · License: `MIT` · Flarum: `^1.8`
+**28** versions archived · Latest: [`v1.0.27`](https://github.com/flarchive/yazz-discussionpost/tree/archive/v1.0.27) · License: `MIT` · Flarum: `^1.8`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v1.0.0` | 2025-04-03 | `^1.8` | [Browse](https://github.com/flarchive/yazz-discussionpost/tree/archive/v1.0.0) |
+| `v1.0.1` | 2025-04-03 | `^1.8` | [Browse](https://github.com/flarchive/yazz-discussionpost/tree/archive/v1.0.1) |
+| `v1.0.10` | 2025-04-04 | `^1.8` | [Browse](https://github.com/flarchive/yazz-discussionpost/tree/archive/v1.0.10) |
+| `v1.0.11` | 2025-04-04 | `^1.8` | [Browse](https://github.com/flarchive/yazz-discussionpost/tree/archive/v1.0.11) |
+| `v1.0.12` | 2025-04-04 | `^1.8` | [Browse](https://github.com/flarchive/yazz-discussionpost/tree/archive/v1.0.12) |
+| `v1.0.13` | 2025-04-04 | `^1.8` | [Browse](https://github.com/flarchive/yazz-discussionpost/tree/archive/v1.0.13) |
+| `v1.0.14` | 2025-04-05 | `^1.8` | [Browse](https://github.com/flarchive/yazz-discussionpost/tree/archive/v1.0.14) |
+| `v1.0.15` | 2025-04-05 | `^1.8` | [Browse](https://github.com/flarchive/yazz-discussionpost/tree/archive/v1.0.15) |
+| `v1.0.16` | 2025-04-05 | `^1.8` | [Browse](https://github.com/flarchive/yazz-discussionpost/tree/archive/v1.0.16) |
+| `v1.0.17` | 2025-04-05 | `^1.8` | [Browse](https://github.com/flarchive/yazz-discussionpost/tree/archive/v1.0.17) |
+
+[View all 28 versions](https://github.com/flarchive/yazz-discussionpost/tags)
 
 Catalog entry: [packages/yazz-discussionpost.json](https://github.com/flarchive/archive-index/blob/main/packages/yazz-discussionpost.json)
 
